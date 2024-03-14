@@ -67,11 +67,11 @@
 | Sora                                              |                                                              |                                                          |
 | [stable-video](https://stability.ai/stable-video) | Stable Video Diffusion，这是一个基于图像模型的生成式视频模型10。Stability AI的目标是提供一系列AI模型，涵盖图像、语言、音频、3D和代码等不同领域，以增强人类智能2。他们的产品适用于多个领域，如媒体、娱乐、教育和营销，并且可以将文本和图像转化为生动的场景，创作出生动的电影作品 | :yellow_heart::yellow_heart::yellow_heart:               |
 
-| 文档问答/写作系列                    |      |      |
-| ------------------------------------ | ---- | ---- |
-| [askyoupdf](https://askyourpdf.com/) |      |      |
-| [chatpdf](https://www.chatpdf.com/)  |      |      |
-| [秘塔写作猫](https://xiezuocat.com/) |      |      |
+| 文档问答/写作系列                    | 描述                                                         | 推荐值                                                   |
+| ------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| [askyoupdf](https://askyourpdf.com/) | AskYourPDF是一个PDF AI Chat应用程序，旨在帮助用户从文档中提取有价值的见解和答案，以帮助他们做出明智的决策。用户可以轻松地上传PDF文件并与智能聊天AI进行交互。1 用户上传文件后，AskYourPDF会处理文件，分析其中的内容以提取重要信息 | :yellow_heart::yellow_heart::yellow_heart:               |
+| [chatpdf](https://www.chatpdf.com/)  | ChatPDF是一个基于人工智能技术的文档阅读工具。它可以帮助用户更轻松地理解和提取PDF文档中的有效信息。ChatPDF的主要功能包括文档整理和管理、智能阅读和理解、注释和标记等。用户可以通过与ChatPDF进行实时对话的方式与其PDF文件进行交互，而无需依赖传统的PDF阅读器或编辑器 | :yellow_heart::yellow_heart:                             |
+| [秘塔写作猫](https://xiezuocat.com/) | 秘塔写作猫是一个集成了多种人工智能技术的中英文写作辅助平台，提供智能文本纠错、改写润色、自动续写、智能配图等功能，还提供API接口和Word插件。它已经升级为魔写作，提供更智能、更个性化的写作过程，包括智能问答和个性化问题回答。秘塔写作猫还可以生成大纲、思维导图、相关事件和人物，提供直接、精准的答案，并包含引用源 | :yellow_heart::yellow_heart::yellow_heart::yellow_heart: |
 
 ###  :mag_right:数据收集与分析
 
