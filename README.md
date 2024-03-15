@@ -1,5 +1,5 @@
 # uLMTutorial
-从0到1动手学习大模型技术
+从0到1动手学习大模型技术，uLMTutorial提供全面大模型技术路线，小白也能够入行学习，**完全免费，完全免费**
 
 ## :telescope:目录
 
@@ -75,7 +75,35 @@
 
 ###  :mag_right:数据收集与分析
 
+#### 预训练数据集
+
+| 数据集名称                                                   | 描述                                                         | 领域 | 类型                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------------------- |
+| [SkyPile-150B](https://www.modelscope.cn/datasets/modelscope/SkyPile-150B/summary) | SkyPile-150B是一个全面的大规模中文数据集，专为大型语言模型的预训练而设计。它源自各种可公开访问的中文互联网网页。为了确保其质量，我们采用了严格的过滤、广泛的重复数据删除和彻底的敏感数据过滤。此外，我们还利用 fastText 和 BERT 等高级工具来过滤掉低质量的数据。SkyPile-150B数据集的可公开访问部分包含大约2.33亿个独特的网页，每个网页平均包含超过1,000个汉字。该数据集总共包含大约 1500 亿个令牌和 620 GB 的纯文本数据 | 通识 | 中文，预处理数据集         |
+| [WuDaoCorpora Text](https://data.baai.ac.cn/details/WuDaoCorporaText) | 采用20多种规则从100TB原始网页数据中清洗得出最终数据集，注重隐私数据信息的去除，源头上避免GPT-3存在的隐私泄露风险；包含教育、科技等50+个行业数据标签，可以支持多领域预训练模型的训练 | 通识 | 中文；预处理数据集         |
+| [wikipedia-cn-20230720-filtered](https://huggingface.co/datasets/pleisto/wikipedia-cn-20230720-filtered) | 本数据集基于中文维基2023年7月20日的dump存档。作为一项以数据为中心的工作，本数据集仅保留了 `254,547条` 质量较高的词条内容。具体而言：  过滤了Template, Category, Wikipedia, File, Topic, Portal, MediaWiki, Draft, Help等特殊类型的词条 使用启发式的方法和自有的NLU模型过滤了一部分质量较低的词条 过滤了一部分内容较为敏感或存在争议性的词条。 进行了简繁转换和习惯用词转换，确保符合中国大陆地区的习惯用词 | 通识 | wiki百，中文；预处理数据集 |
+| [RefinedWeb (en)](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | Falcon RefinedWeb 是由阿布扎比技术创新研究院（TII ）在**Common Crawl** [1]**语料库基础上**进行严格过滤和大规模去重构建，并根据 ODC-By 1.0 许可证发布**的大型英文网络数据集** | 通识 | 英文；预处理               |
+| [RedPajama V2 (en)](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2) | RedPajama-V2数据集是一个包含30万亿个过滤和去重标记的数据集，覆盖了5种语言，包括英语、法语、西班牙语、德语和意大利语。这个数据集是从84个CommonCrawl数据转储中获取的 | 通识 | 多语言，预处理             |
+| [BaiduBaiKe](https://pan.baidu.com/s/1jIpCHnWLTNYabftavo3DVw?pwd=bwvb) | 530W百度百科的数据集                                         | 通识 | 百度百科                   |
+| [The Stack v1.2](https://huggingface.co/datasets/bigcode/the-stack) | The Stack数据集，这是一个具有3.1TB的合法开源代码语料，拥有30种编程语言 | 代码 |                            |
+| [CodeXGLUE](https://github.com/microsoft/CodeXGLUE)          | microsoft 开源的，包含10个任务及14个数据集                   | 代码 |                            |
+| [CodeSearchNet](https://github.com/github/CodeSearchNet)     | 包含了约600万种函数，取自Go，Java，JavaScript，PHP，Python和Ruby这六种编程语言的开源代码。 | 代码 |                            |
+| [ProjectCodeNet](https://github.com/IBM/Project_CodeNet)     | 数据集包含 1400 万个代码样本，共有用 55 种编程语言编写的 5 亿行代码，其中 C++ 是样本中使用最多的语言 | 代码 |                            |
+| [PolyCode](https://github.com/VHellendoorn/Code-LMs)         | itHub上的公开代码，主要选取的是各种编程语言中比较受欢迎的库，每个库至少有50 Stars，采用了多种编程语言代码集来训练，一共有12种 | 代码 |                            |
+| [CodeParrot github-code](https://huggingface.co/datasets/codeparrot/github-code) |                                                              | 代码 |                            |
+| [Google BigQuery](https://cloud.google.com/blog/topics/public-datasets/github-on-bigquery-analyze-all-the-open-source-code) | Google BigQuery提供了GitHub上许可存储库的快照，可以通过SQL查询进行过滤。[AlphaCode](https://link.zhihu.com/?target=https%3A//juejin.cn/post/7181628226463072315)，BLOOM，[InCoder](https://link.zhihu.com/?target=https%3A//juejin.cn/post/7184067501590839333)、[CodeGen](https://link.zhihu.com/?target=https%3A//juejin.cn/post/7184420808859598904)）都在他们的预训练数据集中包括了这部分数据 | 代码 |                            |
+
+#### SFT微调数据集
+
+#### **RLHF**数据集
+
 ### :chart_with_upwards_trend:应用技术
+
+#### Prompt Enginnering
+
+#### RAG应用技术
+
+#### Agent应用技术
 
 ### :ledger:模型基础技术
 
