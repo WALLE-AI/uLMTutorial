@@ -35,6 +35,8 @@
 
 #### AI办公/摸鱼神器推荐
 
+来一张示意图
+
 | 智能助手系列                                                 | 描述                                                         | 推荐值                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
 | [字节Coze](https://www.coze.cn/)                             | 扣子为你提供了一站式 AI 开发平台,无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，可以快速无代码方式搭建自己GPT应用，缺点是只能使用字节本身的模型，比如云雀、豆包 | :yellow_heart::yellow_heart::yellow_heart::yellow_heart: |
@@ -67,11 +69,24 @@
 | Sora                                              |                                                              |                                                          |
 | [stable-video](https://stability.ai/stable-video) | Stable Video Diffusion，这是一个基于图像模型的生成式视频模型10。Stability AI的目标是提供一系列AI模型，涵盖图像、语言、音频、3D和代码等不同领域，以增强人类智能2。他们的产品适用于多个领域，如媒体、娱乐、教育和营销，并且可以将文本和图像转化为生动的场景，创作出生动的电影作品 | :yellow_heart::yellow_heart::yellow_heart:               |
 
-| 文档问答/写作系列                    | 描述                                                         | 推荐值                                                   |
-| ------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-| [askyoupdf](https://askyourpdf.com/) | AskYourPDF是一个PDF AI Chat应用程序，旨在帮助用户从文档中提取有价值的见解和答案，以帮助他们做出明智的决策。用户可以轻松地上传PDF文件并与智能聊天AI进行交互。1 用户上传文件后，AskYourPDF会处理文件，分析其中的内容以提取重要信息 | :yellow_heart::yellow_heart::yellow_heart:               |
-| [chatpdf](https://www.chatpdf.com/)  | ChatPDF是一个基于人工智能技术的文档阅读工具。它可以帮助用户更轻松地理解和提取PDF文档中的有效信息。ChatPDF的主要功能包括文档整理和管理、智能阅读和理解、注释和标记等。用户可以通过与ChatPDF进行实时对话的方式与其PDF文件进行交互，而无需依赖传统的PDF阅读器或编辑器 | :yellow_heart::yellow_heart:                             |
-| [秘塔写作猫](https://xiezuocat.com/) | 秘塔写作猫是一个集成了多种人工智能技术的中英文写作辅助平台，提供智能文本纠错、改写润色、自动续写、智能配图等功能，还提供API接口和Word插件。它已经升级为魔写作，提供更智能、更个性化的写作过程，包括智能问答和个性化问题回答。秘塔写作猫还可以生成大纲、思维导图、相关事件和人物，提供直接、精准的答案，并包含引用源 | :yellow_heart::yellow_heart::yellow_heart::yellow_heart: |
+| 文档问答/写作PPT生成系列                                     | 描述                                                         | 推荐值                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| [askyoupdf](https://askyourpdf.com/)                         | AskYourPDF是一个PDF AI Chat应用程序，旨在帮助用户从文档中提取有价值的见解和答案，以帮助他们做出明智的决策。用户可以轻松地上传PDF文件并与智能聊天AI进行交互。1 用户上传文件后，AskYourPDF会处理文件，分析其中的内容以提取重要信息 | :yellow_heart::yellow_heart::yellow_heart:               |
+| [chatpdf](https://www.chatpdf.com/)                          | ChatPDF是一个基于人工智能技术的文档阅读工具。它可以帮助用户更轻松地理解和提取PDF文档中的有效信息。ChatPDF的主要功能包括文档整理和管理、智能阅读和理解、注释和标记等。用户可以通过与ChatPDF进行实时对话的方式与其PDF文件进行交互，而无需依赖传统的PDF阅读器或编辑器 | :yellow_heart::yellow_heart:                             |
+| [秘塔写作猫](https://xiezuocat.com/)                         | 秘塔写作猫是一个集成了多种人工智能技术的中英文写作辅助平台，提供智能文本纠错、改写润色、自动续写、智能配图等功能，还提供API接口和Word插件。它已经升级为魔写作，提供更智能、更个性化的写作过程，包括智能问答和个性化问题回答。秘塔写作猫还可以生成大纲、思维导图、相关事件和人物，提供直接、精准的答案，并包含引用源 | :yellow_heart::yellow_heart::yellow_heart::yellow_heart: |
+| [Notion AI](https://www.notion.so/product/ai)                | 对notion 云文档续写、翻译、改写等等提供强大的功能            | :yellow_heart::yellow_heart:                             |
+| [Gamma](https://gamma.app/)                                  | Gamma是一种一键生成PPT的工具，它可以帮助用户快速创建演示文稿 | :yellow_heart::yellow_heart:                             |
+| [百度文库](https://wenku.baidu.com/?locale=zh_CN&_wkts_=1710583163356) | 通过文心模型生成PPT大纲，在更具大纲生成完整PPT，PPT中素材可能来之百度图库和生成 | :yellow_heart::yellow_heart::yellow_heart:               |
+| [Tome](https://beta.tome.app/)                               | 一款 AI 驱动的 PPT/幻灯片内容辅助生成工具。只需要输入一个标题或者一段特定的描述，AI 便会自动生成一套包括标题、大纲、内容、配图的完整 PPT. | :yellow_heart::yellow_heart::yellow_heart:               |
+| [讯飞智文](https://zhiwen.xfyun.cn/)                         | 一键生成Word、PPT文档，让工作和学习更轻松、更高效            | :yellow_heart::yellow_heart::yellow_heart:               |
+
+| 图标设计       |      |      |
+| -------------- | ---- | ---- |
+| Logo Diffsuion |      |      |
+| AIDesign       |      |      |
+|                |      |      |
+
+
 
 ###  :mag_right:数据收集与分析
 
