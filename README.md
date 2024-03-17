@@ -129,6 +129,16 @@
 
 #### **RLHF**数据集
 
+| 数据集名称                                                   | 描述                                                         | 领域 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [Anthropic](https://huggingface.co/Anthropic)/[hh-rlhf](https://huggingface.co/datasets/Anthropic/hh-rlhf) | Anthropic/hh-rlhf数据集是一个包含有关帮助性和无害性的人类偏好数据的数据集。该数据集用于使用人类反馈的强化学习训练一个有帮助且无害的助手。该数据集还包含了来自红队测试语言模型以减少伤害的人类生成数据 |      |
+| [mayflowergmbh](https://huggingface.co/mayflowergmbh)/[intel_orca_dpo_pairs_de](https://huggingface.co/datasets/mayflowergmbh/intel_orca_dpo_pairs_de) |                                                              |      |
+| [OpenAssistant](https://huggingface.co/OpenAssistant)/[oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | 数据集是通过人类对话收集的数据，并用于训练助手模型。数据集包含9,846个高评分路径的样本，主要用于对话树的训练 |      |
+| [mlabonne](https://huggingface.co/mlabonne)/[chatml_dpo_pairs](https://huggingface.co/datasets/mlabonne/chatml_dpo_pairs) | Maxime提供的一个样本优先级数据集，用于DPO fine-tuning的实验7。该数据集经过预处理2，是Orca风格数据集Open-Orca/OpenOrca的一个子集，包含了12,000个示例。它可以用于训练模型，以压缩信息和构建强大的、成本低廉的模型 |      |
+| [berkeley-nest](https://huggingface.co/berkeley-nest)/[Nectar](https://huggingface.co/datasets/berkeley-nest/Nectar) | 包括RLHF、RLAIF和reward model                                |      |
+
+
+
 ### :chart_with_upwards_trend:应用技术
 
 #### Prompt Enginnering
