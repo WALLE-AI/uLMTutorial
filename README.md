@@ -27,11 +27,26 @@
 
 | 文本生成类（OpenAI GPTs相关免费应用）                        | 描述                                                         | 推荐值                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| https://github.com/ai-boost/awesome-prompts?tab=readme-ov-file |                                                              |                                                          |
+| **https://promptfolder.com/midjourney-prompt-helper/**       |                                                              |                                                          |
 | [promptbase](https://promptbase.com/)                        | Prompt商场，可以发布自己prompt进行售卖，也可以购买商城中prompt案例 | :yellow_heart::yellow_heart:                             |
 | [Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List) | 参考Openai GPTs 的Prompt写法                                 | :yellow_heart::yellow_heart::yellow_heart:               |
 | [awesome-prompts](https://github.com/ai-boost/awesome-prompts) | Open GPTs Prompt聚集地，学习大量场景的prompt写法             | :yellow_heart::yellow_heart::yellow_heart::yellow_heart: |
 | **[BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** | 参考Openai GPTs 的Prompt写法                                 | :yellow_heart::yellow_heart::yellow_heart:               |
 | **[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs)**    | 参考Openai GPTs 的Prompt写法                                 | :yellow_heart::yellow_heart::yellow_heart:               |
+| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) |                                                              |                                                          |
+| [**prompt-guide**](https://prompt-guide.xiniushu.com/category/-basics) |                                                              |                                                          |
+| [**chatgpt-prompt-engineering-for-developers**](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |                                                              |                                                          |
+| [prompt-engineering](https://github.com/brexhq/prompt-engineering) |                                                              |                                                          |
+| https://github.com/phodal/prompt-patterns                    |                                                              |                                                          |
+| **https://promptport.ai/**                                   |                                                              |                                                          |
+| **https://www.aishort.top/**                                 |                                                              |                                                          |
+| **https://flowgpt.com/**                                     |                                                              |                                                          |
+| https://github.com/f/awesome-chatgpt-prompts                 |                                                              |                                                          |
+| **https://promptperfect.jina.ai/**                           |                                                              |                                                          |
+| https://flowgpt.com/p/promptenhancer                         |                                                              |                                                          |
+| **https://replicate.com/methexis-inc/img2prompt**            |                                                              |                                                          |
+| **https://prompthero.com/**                                  |                                                              |                                                          |
 
 
 
@@ -118,14 +133,15 @@
 | [pubmed](https://pubmed.ncbi.nlm.nih.gov/)                   | PubMed 是美国国立卫生研究院国家医学图书馆开发的免费医学论文数据库，收录了超过 3600 万篇生物医学文献的引用和摘要。PubMed Central 是一个免费全文期刊文章的电子档案，提供对超过 600 万篇生物医学和生命科学期刊文章的免费访问 | 医学文献     |                            |
 | [S2ORC](https://www.semanticscholar.org/product/api)         | S2ORC是一个包含大量英文学术论文的数据集，涵盖了多个学术领域。该数据集包括丰富的元数据、论文摘要、已解析的文献引用以及约810万篇开放获取论文的结构化全文，https://huggingface.co/datasets/leminda-ai/s2orc_small | 医学文献     |                            |
 | **[CMeKG_tools](https://github.com/king-yyf/CMeKG_tools)**   | MeKG_tools的项目，由king-yyf创建和维护。该项目是关于CMeKG（Chinese Medical Knowledge Graph）的，CMeKG是一个利用自然语言处理和文本挖掘技术构建的中文医学知识图谱12。该项目使用Python语言，提供了一些主要模型工具，包括医学文本分词、医学实体识别和医学关系抽取 | 医学知识图谱 |                            |
+| [mhenrichsen](https://huggingface.co/mhenrichsen)/[terra](https://huggingface.co/datasets/mhenrichsen/terra) | 对C4 OSCAR-2019等数据集来进行精炼得到                        |              |                            |
 
 #### SFT微调数据集
 
-| 数据集名称                                         | 描述                                                         | 领域   |
-| -------------------------------------------------- | ------------------------------------------------------------ | ------ |
-| [cMedQA2](https://github.com/zhangsheng93/cMedQA2) | 用于中文社区医疗问答任务的数据集。这个数据集的目标是支持和推动医疗健康领域自动问答系统的研究。它提供了大量涵盖多种疾病、症状、治疗方法等医疗健康领域知识的医疗相关问题和答案对。数据集版本号为2.0 | 医学QA |
-|                                                    |                                                              |        |
-|                                                    |                                                              |        |
+| 数据集名称                                                   | 描述                                                         | 领域   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [cMedQA2](https://github.com/zhangsheng93/cMedQA2)           | 用于中文社区医疗问答任务的数据集。这个数据集的目标是支持和推动医疗健康领域自动问答系统的研究。它提供了大量涵盖多种疾病、症状、治疗方法等医疗健康领域知识的医疗相关问题和答案对。数据集版本号为2.0 | 医学QA |
+| [Hello-SimpleAI/HC3-Chinese](https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese/tree/main) | HC3-Chinese的数据集，用于人工智能领域的文本分类任务。它是一个用于人类与ChatGPT对比的语料库，旨在促进开源和开放科学 |        |
+|                                                              |                                                              |        |
 
 #### **RLHF**数据集
 
