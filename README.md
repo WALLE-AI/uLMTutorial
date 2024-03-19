@@ -137,11 +137,13 @@
 
 #### SFT微调数据集
 
-| 数据集名称                                                   | 描述                                                         | 领域   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| [cMedQA2](https://github.com/zhangsheng93/cMedQA2)           | 用于中文社区医疗问答任务的数据集。这个数据集的目标是支持和推动医疗健康领域自动问答系统的研究。它提供了大量涵盖多种疾病、症状、治疗方法等医疗健康领域知识的医疗相关问题和答案对。数据集版本号为2.0 | 医学QA |
-| [Hello-SimpleAI/HC3-Chinese](https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese/tree/main) | HC3-Chinese的数据集，用于人工智能领域的文本分类任务。它是一个用于人类与ChatGPT对比的语料库，旨在促进开源和开放科学 |        |
-|                                                              |                                                              |        |
+| 数据集名称                                                   | 描述                                                         | 领域      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
+| [cMedQA2](https://github.com/zhangsheng93/cMedQA2)           | 用于中文社区医疗问答任务的数据集。这个数据集的目标是支持和推动医疗健康领域自动问答系统的研究。它提供了大量涵盖多种疾病、症状、治疗方法等医疗健康领域知识的医疗相关问题和答案对。数据集版本号为2.0 | 医学QA    |
+| [Hello-SimpleAI/HC3-Chinese](https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese/tree/main) | HC3-Chinese的数据集，用于人工智能领域的文本分类任务。它是一个用于人类与ChatGPT对比的语料库，旨在促进开源和开放科学 |           |
+| [ms-agent](https://www.modelscope.cn/datasets/iic/ms_agent/summary) | modescope agent数据集 并将loss-scale技术（https://arxiv.org/pdf/2309.00986.pdf）应用到agent训练中，使中小模型API Call能力更稳定，并支持使用单张商业级显卡进行Agent推理和部署，可以直接在生产场景中全链路闭环落地使用 | agent微调 |
+| [iic/ms_bench](iic/ms_bench)                                 | 魔搭通用SFT数据集是MSAgent-Bench的子集，主要覆盖通用的问答SFT数据，具体的类型可以参考[论文](https://arxiv.org/abs/2309.00986)。 | agent微调 |
+| [glaive_toolcall](https://gitee.com/hf-datasets/glaive-function-calling-v2-llama) | function call数据集                                          |           |
 
 #### **RLHF**数据集
 
