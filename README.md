@@ -3,6 +3,20 @@
 
 ## :telescope:目录
 
+* **:computer:入门科普课程**
+
+* **:bomb:AI神器推荐---提高办公效率、上班摸鱼好利器**
+
+* **:mag_right:数据收集与分析**
+
+* **:chart_with_upwards_trend:应用技术**
+
+* **:ledger:模型基础技术**
+
+* **:dart:基础平台技术能力**
+
+  
+
 ### :computer:入门科普课程
 
 |                           科普课程                           | 课程描述内容                                                 | 推荐值                                                   |
@@ -47,8 +61,7 @@
 | https://flowgpt.com/p/promptenhancer                         |                                                              |                                                          |
 | **https://replicate.com/methexis-inc/img2prompt**            |                                                              |                                                          |
 | **https://prompthero.com/**                                  |                                                              |                                                          |
-
-
+| [PromptLLM](https://www.lepton.ai/playground/completion?model=prompt-llm) | PromptLLM是由贾扬清团队LeptonAl平台推出的AIGC提示词工具，只需输入一行简短的提示词，PromptLLM就<br/>能在几秒内生成一个更加完整、具体的提示词，顺便再用StableDiffusionXL生成两张图片。PromptLLM简化了内<br/>容创作过程，为个人和团队提供了一个高效且富有创意的写作助手。 | :yellow_heart::yellow_heart::yellow_heart:               |
 
 #### AI办公/摸鱼神器推荐
 
@@ -160,6 +173,12 @@
 ### :chart_with_upwards_trend:应用技术
 
 #### Prompt Enginnering
+
+* 工具类打造
+  * [PromptLLM](https://www.lepton.ai/playground/completion?model=prompt-llm)
+* Tokens优化
+  * [LLMLingua](https://github.com/microsoft/LLMLingua)
+  * [AutoCompressors](https://github.com/princeton-nlp/AutoCompressors)
 
 #### RAG应用技术
 
